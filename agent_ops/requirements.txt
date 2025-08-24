@@ -6,3 +6,5 @@ streamlit-authenticator
 pytz
 python-dateutil
 numpy
+gspread>=5.7.2
+google-auth>=2.22.0
